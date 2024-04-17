@@ -1,2 +1,6 @@
 # HTB_Sherlocks
-Sherlocks challenges i've completed
+Sherlocks challenges I've completed. Password for the archive : *hacktheblue*
+
+## Very Easy
+- [x] [Brutus](./challenges/brutus/)
+- [x] [Unit 42](./challenges/Unit42/)
