@@ -8,4 +8,4 @@ Sherlocks challenges I've completed. Password for the archive : *hacktheblue*
 
 ## Easy
 - [x] [Meerkat](./challenges/Meerkat/)
-- [x] [Bumblebee]
+- [x] [Bumblebee](./challenges/bumblebee/)
