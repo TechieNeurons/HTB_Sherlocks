@@ -9,3 +9,6 @@ Sherlocks challenges I've completed. Password for the archive : *hacktheblue*
 ## Easy
 - [x] [Meerkat](./challenges/Meerkat/)
 - [x] [Bumblebee](./challenges/bumblebee/)
+
+## Medium
+- [x] [Subatomic](./challenges/Subatomic/)
