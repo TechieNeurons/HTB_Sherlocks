@@ -12,3 +12,10 @@ Sherlocks challenges I've completed. Password for the archive : *hacktheblue*
 
 ## Medium
 - [x] [Subatomic](./challenges/Subatomic/)
+
+## OpTinselTrace Campaign
+- [x] [OpTinselTrace-1](./challenges/optinseltrace_1) - Easy
+- [x] [OpTinselTrace-2](./challenges/optinseltrace_2) - Easy
+- [x] [OpTinselTrace-3](./challenges/optinseltrace_3) - Medium
+- [x] [OpTinselTrace-4](./challenges/optinseltrace_4) - Easy
+- [x] [OpTinselTrace-5](./challenges/optinseltrace_5) - Hard
