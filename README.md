@@ -3,15 +3,22 @@ Sherlocks challenges I've completed. Password for the archive : *hacktheblue*
 
 ## Very Easy
 - [x] [Brutus](./challenges/brutus/)
-- [x] [Unit 42](./challenges/Unit42/)
+- [x] [Unit 42](./challenges/unit42/)
 - [x] [BFT](./challenges/BFT/)
 
 ## Easy
-- [x] [Meerkat](./challenges/Meerkat/)
+- [x] [Meerkat](./challenges/meerkat/)
 - [x] [Bumblebee](./challenges/bumblebee/)
+- [x] [Logjammer](./challenges/logjammer/)
+- [x] [Litter](./challenges/litter/)
 
 ## Medium
-- [x] [Subatomic](./challenges/Subatomic/)
+- [x] [Subatomic](./challenges/subatomic/)
+- [x] [Nubilum 1](./challenges/nubilum_1/)
+- [x] [TickTock](./challenges/ticktock/)
+
+## Hard
+- [x] [Lockpick2.0](./challenges/lockpick2/)
 
 ## OpTinselTrace Campaign
 - [x] [OpTinselTrace-1](./challenges/optinseltrace_1) - Easy
