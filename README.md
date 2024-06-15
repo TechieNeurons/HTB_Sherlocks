@@ -11,6 +11,7 @@ Sherlocks challenges I've completed. Password for the archive : *hacktheblue*
 - [x] [Bumblebee](./challenges/bumblebee/)
 - [x] [Logjammer](./challenges/logjammer/)
 - [x] [Litter](./challenges/litter/)
+- [x] [Noted](./challenges/noted/)
 
 ## Medium
 - [x] [Subatomic](./challenges/subatomic/)
