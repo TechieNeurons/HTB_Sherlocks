@@ -5,6 +5,7 @@ Sherlocks challenges I've completed. Password for the archive : *hacktheblue*
 - [x] [Brutus](./challenges/brutus/)
 - [x] [Unit 42](./challenges/unit42/)
 - [x] [BFT](./challenges/BFT/)
+- [ ] [Campfire-1](./challenges/campfire_1)
 
 ## Easy
 - [x] [Meerkat](./challenges/meerkat/)
