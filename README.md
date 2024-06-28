@@ -5,7 +5,7 @@ Sherlocks challenges I've completed. Password for the archive : *hacktheblue*
 - [x] [Brutus](./challenges/brutus/)
 - [x] [Unit 42](./challenges/unit42/)
 - [x] [BFT](./challenges/BFT/)
-- [ ] [Campfire-1](./challenges/campfire_1)
+- [x] [Campfire-1](./challenges/campfire_1)
 
 ## Easy
 - [x] [Meerkat](./challenges/meerkat/)
@@ -15,6 +15,7 @@ Sherlocks challenges I've completed. Password for the archive : *hacktheblue*
 - [x] [Noted](./challenges/noted/)
 
 ## Medium
+- [x] [Jugglin](./challenges/jugglin/)
 - [x] [Subatomic](./challenges/subatomic/)
 - [x] [Nubilum 1](./challenges/nubilum_1/)
 - [x] [TickTock](./challenges/ticktock/)
