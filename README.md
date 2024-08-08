@@ -23,7 +23,7 @@ Sherlocks challenges I've completed. Password for the archive : *hacktheblue*
 
 ## Hard
 - [x] [Lockpick2.0](./challenges/lockpick2/)
-- [ ] [Lockpick3.0](./challenges/lockpick3/)
+- [x] [Lockpick3.0](./challenges/lockpick3/)
 
 ## OpTinselTrace Campaign
 - [x] [OpTinselTrace-1](./challenges/optinseltrace_1) - Easy
