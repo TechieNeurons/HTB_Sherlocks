@@ -1,5 +1,6 @@
 # HTB_Sherlocks
-Sherlocks challenges I've completed. Password for the archive : *hacktheblue*
+Sherlocks challenges I've completed. 
+Password for the archive : *hacktheblue*
 
 ## Very Easy
 - [x] [Brutus](./challenges/brutus/)
@@ -14,9 +15,13 @@ Sherlocks challenges I've completed. Password for the archive : *hacktheblue*
 - [x] [Logjammer](./challenges/logjammer/)
 - [x] [Litter](./challenges/litter/)
 - [x] [Noted](./challenges/noted/)
+- [x] [Nubilum-2](./challenges/nubilum_2/)
+- [x] [Lockpick](./challenges/lockpick/)
+- [x] [Tracer](./challenges/tracer/)
 
 ## Medium
 - [x] [Jugglin](./challenges/jugglin/)
+- [x] [Constellation](./challenges/constellation/)
 - [x] [Subatomic](./challenges/subatomic/)
 - [x] [Nubilum 1](./challenges/nubilum_1/)
 - [x] [TickTock](./challenges/ticktock/)
