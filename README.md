@@ -8,6 +8,7 @@ Password for the archive : *hacktheblue*
 - [x] [BFT](./challenges/BFT/)
 - [x] [Campfire-1](./challenges/campfire_1)
 - [x] [Campfire-2](./challenges/campfire_2)
+- [ ] [Reaper](./challenges/reaper/)
 
 ## Easy
 - [x] [Meerkat](./challenges/meerkat/)
@@ -23,7 +24,7 @@ Password for the archive : *hacktheblue*
 - [x] [Jugglin](./challenges/jugglin/)
 - [x] [Constellation](./challenges/constellation/)
 - [x] [Subatomic](./challenges/subatomic/)
-- [x] [Nubilum 1](./challenges/nubilum_1/)
+- [x] [Nubilum-1](./challenges/nubilum_1/)
 - [x] [TickTock](./challenges/ticktock/)
 
 ## Hard
