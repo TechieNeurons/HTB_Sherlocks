@@ -8,7 +8,7 @@ Password for the archive : *hacktheblue*
 - [x] [BFT](./challenges/BFT/)
 - [x] [Campfire-1](./challenges/campfire_1)
 - [x] [Campfire-2](./challenges/campfire_2)
-- [ ] [Reaper](./challenges/reaper/)
+- [x] [Reaper](./challenges/reaper/)
 
 ## Easy
 - [x] [Meerkat](./challenges/meerkat/)
