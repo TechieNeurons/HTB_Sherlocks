@@ -1,6 +1,5 @@
 # HTB_Sherlocks
-Sherlocks challenges I've completed. 
-Password for the archive : *hacktheblue*
+Write ups for Hack The Box Sherlocks
 
 ## Very Easy
 - [x] [Brutus](./challenges/brutus/)
@@ -9,6 +8,7 @@ Password for the archive : *hacktheblue*
 - [x] [Campfire-1](./challenges/campfire_1)
 - [x] [Campfire-2](./challenges/campfire_2)
 - [x] [Reaper](./challenges/reaper/)
+- [x] [Noxious](./challenges/noxious/)
 
 ## Easy
 - [x] [Meerkat](./challenges/meerkat/)
