@@ -26,6 +26,7 @@ Write ups for Hack The Box Sherlocks
 - [x] [Subatomic](./challenges/subatomic/)
 - [x] [Nubilum-1](./challenges/nubilum_1/)
 - [x] [TickTock](./challenges/ticktock/)
+- [x] [Mellitus](./challenges/mellitus/)
 
 ## Hard
 - [x] [Lockpick2.0](./challenges/lockpick2/)
