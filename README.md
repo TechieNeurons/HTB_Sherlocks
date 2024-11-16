@@ -19,6 +19,7 @@ Write ups for Hack The Box Sherlocks
 - [x] [Nubilum-2](./challenges/nubilum_2/)
 - [x] [Lockpick](./challenges/lockpick/)
 - [x] [Tracer](./challenges/tracer/)
+- [x] [Ultimatum](./challenges/ultimatum/)
 
 ## Medium
 - [x] [Jugglin](./challenges/jugglin/)
@@ -31,6 +32,10 @@ Write ups for Hack The Box Sherlocks
 ## Hard
 - [x] [Lockpick2.0](./challenges/lockpick2/)
 - [x] [Lockpick3.0](./challenges/lockpick3/)
+- [ ] [BOughT](./challenges/bought)
+
+## Insane
+- [ ] [Hunter](./challenges/hunter)
 
 ## OpTinselTrace Campaign
 - [x] [OpTinselTrace-1](./challenges/optinseltrace_1) - Easy
