@@ -20,6 +20,8 @@ Write ups for Hack The Box Sherlocks
 - [x] [Lockpick](./challenges/lockpick/)
 - [x] [Tracer](./challenges/tracer/)
 - [x] [Ultimatum](./challenges/ultimatum/)
+- [x] [Jingle Bell](./challenges/jingle_bell/)
+- [x] [Recollection](./challenges/recollection/)
 
 ## Medium
 - [x] [Jugglin](./challenges/jugglin/)
