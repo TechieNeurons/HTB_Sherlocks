@@ -2,46 +2,70 @@
 Write ups for Hack The Box Sherlocks
 
 ## Very Easy
-- [x] [Brutus](./challenges/brutus/)
-- [x] [Unit 42](./challenges/unit42/)
-- [x] [BFT](./challenges/BFT/)
-- [x] [Campfire-1](./challenges/campfire_1)
-- [x] [Campfire-2](./challenges/campfire_2)
-- [x] [Reaper](./challenges/reaper/)
-- [x] [Noxious](./challenges/noxious/)
+| Name | Done | tags | youtube |
+| ---- | ---- | ---- | ------- |
+| [Brutus](./challenges/brutus/) | :white_check_mark: |  | [Link]() |
+| [Unit 42](./challenges/unit42/) | :white_check_mark: |  | [Link]() |
+| [BFT](./challenges/BFT/) | :white_check_mark: |  | [Link]() |
+| [Campfire-1](./challenges/campfire_1) | :white_check_mark: |  | [Link]() |
+| [Campfire-2](./challenges/campfire_2) | :white_check_mark: |  | [Link]() |
+| [Reaper](./challenges/reaper/) | :white_check_mark: |  | [Link]() |
+| [Noxious](./challenges/noxious/) | :white_check_mark: |  | [Link]() |
 
 ## Easy
-- [x] [Meerkat](./challenges/meerkat/)
-- [x] [Bumblebee](./challenges/bumblebee/)
-- [x] [Logjammer](./challenges/logjammer/)
-- [x] [Litter](./challenges/litter/)
-- [x] [Noted](./challenges/noted/)
-- [x] [Nubilum-2](./challenges/nubilum_2/)
-- [x] [Lockpick](./challenges/lockpick/)
-- [x] [Tracer](./challenges/tracer/)
-- [x] [Ultimatum](./challenges/ultimatum/)
-- [x] [Jingle Bell](./challenges/jingle_bell/)
-- [x] [Recollection](./challenges/recollection/)
+| Name | Done | tags | youtube |
+| ---- | ---- | ---- | ------- |
+| [Meerkat](./challenges/meerkat/) | :white_check_mark: |  | [Link]() |
+| [Bumblebee](./challenges/bumblebee/) | :white_check_mark: |  | [Link]() |
+| [Logjammer](./challenges/logjammer/) | :white_check_mark: |  | [Link]() |
+| [Litter](./challenges/litter/) | :white_check_mark: |  | [Link]() |
+| [Noted](./challenges/noted/) | :white_check_mark: |  | [Link]() |
+| [Nubilum-2](./challenges/nubilum_2/) | :white_check_mark: |  | [Link]() |
+| [Lockpick](./challenges/lockpick/) | :white_check_mark: |  | [Link]() |
+| [Tracer](./challenges/tracer/) | :white_check_mark: |  | [Link]() |
+| [Ultimatum](./challenges/ultimatum/) | :white_check_mark: |  | [Link]() |
+| [Jingle Bell](./challenges/jingle_bell/) | :white_check_mark: |  | [Link]() |
+| [Recollection](./challenges/recollection/) | :white_check_mark: |  | [Link]() |
+| [RogueOne](./challenges/rogue_one) | :white_check_mark: |  | [Link]() |
+| [Heartbreaker-Continuum](./challenges/heartbreaker_continuum/) | :white_check_mark: |  | [Link]() |
+| [Fragility](./challenges/fragility/) | :white_check_mark: |  | [Link]() |
+| [Takedown](./challenges/takedown/) | :white_check_mark: |  | [Link]() |
+| [RogueOne](./challenges/rogue_one) | :white_check_mark: |  | [Link]() |
+| [Heartbreaker-Continuum](./challenges/heartbreaker_continuum/) | :white_check_mark: |  | [Link]() |
+| [Fragility](./challenges/fragility/) | :white_check_mark: |  | [Link]() |
+| [Takedown](./challenges/takedown/) | :white_check_mark: |  | [Link]() |
+|  | :white_check_mark: |  | [Link]() |
 
 ## Medium
-- [x] [Jugglin](./challenges/jugglin/)
-- [x] [Constellation](./challenges/constellation/)
-- [x] [Subatomic](./challenges/subatomic/)
-- [x] [Nubilum-1](./challenges/nubilum_1/)
-- [x] [TickTock](./challenges/ticktock/)
-- [x] [Mellitus](./challenges/mellitus/)
+| Name | Done | tags | youtube |
+| ---- | ---- | ---- | ------- |
+| [Jugglin](./challenges/jugglin/) | :white_check_mark: |  | [Link]() |
+| [Constellation](./challenges/constellation/) | :white_check_mark: |  | [Link]() |
+| [Subatomic](./challenges/subatomic/) | :white_check_mark: |  | [Link]() |
+| [Nubilum-1](./challenges/nubilum_1/) | :white_check_mark: |  | [Link]() |
+| [TickTock](./challenges/ticktock/) | :white_check_mark: |  | [Link]() |
+| [Mellitus](./challenges/mellitus/) | :white_check_mark: |  | [Link]() |
+| [APTNightmare](./challenges/aptnightmare/) | :white_check_mark: |  | [Link]() |
+| [Jinkies](./challenges/jinkies) | :white_check_mark: |  | [Link]() |
+| [MisCloud](./challenges/miscloud/) | :white_check_mark: |  | [Link]() |
 
 ## Hard
-- [x] [Lockpick2.0](./challenges/lockpick2/)
-- [x] [Lockpick3.0](./challenges/lockpick3/)
-- [ ] [BOughT](./challenges/bought)
+| Name | Done | tags | youtube |
+| ---- | ---- | ---- | ------- |
+| [Lockpick2.0](./challenges/lockpick2/) | :white_check_mark: |  | [Link]() |
+| [Lockpick3.0](./challenges/lockpick3/) | :white_check_mark: |  | [Link]() |
+| [BOughT](./challenges/bought) | :x: |  | [Link]() |
 
 ## Insane
-- [ ] [Hunter](./challenges/hunter)
+| Name | Done | tags | youtube |
+| ---- | ---- | ---- | ------- |
+| [Hunter](./challenges/hunter) | :x: |  | [Link]() |
 
 ## OpTinselTrace Campaign
-- [x] [OpTinselTrace-1](./challenges/optinseltrace_1) - Easy
-- [x] [OpTinselTrace-2](./challenges/optinseltrace_2) - Easy
-- [x] [OpTinselTrace-3](./challenges/optinseltrace_3) - Medium
-- [x] [OpTinselTrace-4](./challenges/optinseltrace_4) - Easy
-- [x] [OpTinselTrace-5](./challenges/optinseltrace_5) - Hard
+| Name | Difficulty | Done | tags | youtube |
+| ---- | ---------- | ---- | ---- | ------- |
+| [OpTinselTrace-1](./challenges/optinseltrace_1) | Easy | :white_check_mark: |  | [Link]() |
+| [OpTinselTrace-2](./challenges/optinseltrace_2) | Easy | :white_check_mark: |  | [Link]() |
+| [OpTinselTrace-3](./challenges/optinseltrace_3) | Medium | :white_check_mark: |  | [Link]() |
+| [OpTinselTrace-4](./challenges/optinseltrace_4) | Easy | :white_check_mark: |  | [Link]() |
+| [OpTinselTrace-5](./challenges/optinseltrace_5) | Hard | :white_check_mark: |  | [Link]() |
