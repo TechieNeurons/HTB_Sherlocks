@@ -191,7 +191,7 @@ TCP      192.168.1.3     : 5555 192.168.1.5     :57246 ESTABLISHED              
 
 ### Pcap
 1. Take a look at the packets statistics :
-	![Packets stats](./img/00_packets_stats.png)
+	![Packets stats](../../img/aptnightmare/00_packets_stats.png)
 	- We have a good number of http
 2. In the **File > Export objects > HTTP** :
 	- We can see the following domains : `cs-corp.cd` (with subdomains download, mail, sysmon) then we have the following IP 192.168.1.5 (port 3334, 8000, 806)
@@ -234,7 +234,7 @@ TCP      192.168.1.3     : 5555 192.168.1.5     :57246 ESTABLISHED              
     - Stream 1588 : `host=|mkfifo /tmp/mypipe;cat /tmp/mypipe|/bin/bash|nc -l -p 5555 >/tmp/mypipe`
 8. After a lot of research, we can see a DNS zone transfer, the answer is in packet number `9396`
     - We have information about the subdomains
-    ![subdomains](./img/01_subdomains.png)
+    ![subdomains](../../img/01_subdomains.png)
     - This DNS zone transfer is between the port scan and the sqli
 
 ### Pwnkit
