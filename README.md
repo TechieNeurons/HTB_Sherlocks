@@ -15,9 +15,9 @@ Write ups for Hack The Box Sherlocks
 ## Easy
 | Name | Done | tags | youtube |
 | ---- | ---- | ---- | ------- |
-| [Meerkat](./challenges/meerkat/) | :white_check_mark: |  | :x: |
-| [Bumblebee](./challenges/bumblebee/) | :white_check_mark: |  | :x: |
-| [Logjammer](./challenges/logjammer/) | :white_check_mark: |  | :x: |
+| [Meerkat](./challenges/meerkat/) | :white_check_mark: | #wireshark #jq #http | :x: |
+| [Bumblebee](./challenges/bumblebee/) | :white_check_mark: | #sqlite #access.log | :x: |
+| [Logjammer](./challenges/logjammer/) | :white_check_mark: | #evtx | :x: |
 | [Litter](./challenges/litter/) | :white_check_mark: |  | :x: |
 | [Noted](./challenges/noted/) | :white_check_mark: |  | :x: |
 | [Nubilum-2](./challenges/nubilum_2/) | :white_check_mark: |  | :x: |
