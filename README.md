@@ -2,7 +2,7 @@
 Write ups for Hack The Box Sherlocks
 
 ## Very Easy
-| Name | Done | tags | youtube |
+| Name | Done | Tags | YouTube |
 | ---- | ---- | ---- | ------- |
 | [Brutus](./challenges/brutus/) | :white_check_mark: |  | [:fr:](https://www.youtube.com/watch?v=cuWbj6n0pWg) |
 | [Unit 42](./challenges/unit42/) | :white_check_mark: |  | [:fr:](https://www.youtube.com/watch?v=-GMmIVzaAzA) |
@@ -13,7 +13,7 @@ Write ups for Hack The Box Sherlocks
 | [Noxious](./challenges/noxious/) | :white_check_mark: |  | :x: |
 
 ## Easy
-| Name | Done | tags | youtube |
+| Name | Done | Tags | YouTube |
 | ---- | ---- | ---- | ------- |
 | [Meerkat](./challenges/meerkat/) | :white_check_mark: | #wireshark #jq #http | :x: |
 | [Bumblebee](./challenges/bumblebee/) | :white_check_mark: | #sqlite #access.log | :x: |
@@ -34,10 +34,13 @@ Write ups for Hack The Box Sherlocks
 | [Heartbreaker-Continuum](./challenges/heartbreaker_continuum/) | :white_check_mark: |  | :x: |
 | [Fragility](./challenges/fragility/) | :white_check_mark: |  | :x: |
 | [Takedown](./challenges/takedown/) | :white_check_mark: |  | :x: |
+| [Operation Blackout 2025: Ghost Thread](./challenges/ghost_thread) | :white_check_mark: | #Windows #APIMonitor #process_injection #tls | [link]() |
+| [NeuroSync-D](./challenges/neurosync_d/) | :white_check_mark: | #API #linux #logs #access.log | [link]() |
+| [Pikaptcha](./challenges/pikaptcha/) | :white_check_mark: | #web #windows #registry #wireshark | [link] |
 |  | :white_check_mark: |  | :x: |
 
 ## Medium
-| Name | Done | tags | youtube |
+| Name | Done | Tags | YouTube |
 | ---- | ---- | ---- | ------- |
 | [Jugglin](./challenges/jugglin/) | :white_check_mark: |  | :x: |
 | [Constellation](./challenges/constellation/) | :white_check_mark: |  | :x: |
@@ -50,19 +53,19 @@ Write ups for Hack The Box Sherlocks
 | [MisCloud](./challenges/miscloud/) | :white_check_mark: |  | :x: |
 
 ## Hard
-| Name | Done | tags | youtube |
+| Name | Done | Tags | YouTube |
 | ---- | ---- | ---- | ------- |
 | [Lockpick2.0](./challenges/lockpick2/) | :white_check_mark: |  | :x: |
 | [Lockpick3.0](./challenges/lockpick3/) | :white_check_mark: |  | :x: |
 | [BOughT](./challenges/bought) | :x: |  | :x: |
 
 ## Insane
-| Name | Done | tags | youtube |
+| Name | Done | Tags | YouTube |
 | ---- | ---- | ---- | ------- |
 | [Hunter](./challenges/hunter) | :x: |  | :x: |
 
 ## OpTinselTrace Campaign
-| Name | Difficulty | Done | tags | youtube |
+| Name | Difficulty | Done | Tags | YouTube |
 | ---- | ---------- | ---- | ---- | ------- |
 | [OpTinselTrace-1](./challenges/optinseltrace_1) | Easy | :white_check_mark: |  | :x: |
 | [OpTinselTrace-2](./challenges/optinseltrace_2) | Easy | :white_check_mark: |  | :x: |
