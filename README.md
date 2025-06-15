@@ -34,9 +34,9 @@ Write ups for Hack The Box Sherlocks
 | [Heartbreaker-Continuum](./challenges/heartbreaker_continuum/) | :white_check_mark: |  | :x: |
 | [Fragility](./challenges/fragility/) | :white_check_mark: |  | :x: |
 | [Takedown](./challenges/takedown/) | :white_check_mark: |  | :x: |
-| [Operation Blackout 2025: Ghost Thread](./challenges/ghost_thread) | :white_check_mark: | #Windows #APIMonitor #process_injection #tls | [link]() |
+| [Operation Blackout 2025: Ghost Thread](./challenges/ghost_thread) | :white_check_mark: | #Windows #APIMonitor #process_injection #tls | [link](https://youtu.be/Ja4JE6Bd7z8?si=HqXFOLJ2N1GVUT3N) |
 | [NeuroSync-D](./challenges/neurosync_d/) | :white_check_mark: | #API #linux #logs #access.log | [link]() |
-| [Pikaptcha](./challenges/pikaptcha/) | :white_check_mark: | #web #windows #registry #wireshark | [link] |
+| [Pikaptcha](./challenges/pikaptcha/) | :white_check_mark: | #web #windows #registry #wireshark | [link]() |
 |  | :white_check_mark: |  | :x: |
 
 ## Medium
