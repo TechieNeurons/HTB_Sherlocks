@@ -37,6 +37,7 @@ Write ups for Hack The Box Sherlocks
 | [Operation Blackout 2025: Ghost Thread](./challenges/ghost_thread) | :white_check_mark: | #Windows #APIMonitor #process_injection #tls | [link](https://youtu.be/Ja4JE6Bd7z8?si=HqXFOLJ2N1GVUT3N) |
 | [NeuroSync-D](./challenges/neurosync_d/) | :white_check_mark: | #API #linux #logs #access.log | [link]() |
 | [Pikaptcha](./challenges/pikaptcha/) | :white_check_mark: | #web #windows #registry #wireshark | [link]() |
+| [Payload](./challenges/payload/) | :white_check_mark: |  | :x: |
 |  | :white_check_mark: |  | :x: |
 
 ## Medium
