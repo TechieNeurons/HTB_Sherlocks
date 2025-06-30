@@ -38,7 +38,10 @@ Write ups for Hack The Box Sherlocks
 | [NeuroSync-D](./challenges/neurosync_d/) | :white_check_mark: | #API #linux #logs #access.log | [link]() |
 | [Pikaptcha](./challenges/pikaptcha/) | :white_check_mark: | #web #windows #registry #wireshark | [link]() |
 | [Payload](./challenges/payload/) | :white_check_mark: |  | :x: |
-|  | :white_check_mark: |  | :x: |
+| [Psittaciformes](./challenges/psittaciformes/) | :white_check_mark: |  | :x: |
+| [Compromised](./challenges/compromised/) | :white_check_mark: |  | :x: |
+| [Loggy](./challenges/loggy/) | :white_check_mark: |  | :x: |
+| []() | :white_check_mark: |  | :x: |
 
 ## Medium
 | Name | Done | Tags | YouTube |
@@ -52,6 +55,7 @@ Write ups for Hack The Box Sherlocks
 | [APTNightmare](./challenges/aptnightmare/) | :white_check_mark: |  | :x: |
 | [Jinkies](./challenges/jinkies) | :white_check_mark: |  | :x: |
 | [MisCloud](./challenges/miscloud/) | :white_check_mark: |  | :x: |
+| [Trent](./challenges/trent/) | :white_check_mark: |  | :x: |
 
 ## Hard
 | Name | Done | Tags | YouTube |
@@ -59,11 +63,13 @@ Write ups for Hack The Box Sherlocks
 | [Lockpick2.0](./challenges/lockpick2/) | :white_check_mark: |  | :x: |
 | [Lockpick3.0](./challenges/lockpick3/) | :white_check_mark: |  | :x: |
 | [BOughT](./challenges/bought) | :x: |  | :x: |
+| [APTNightmare-2](./challenges/aptnightmare_2/) | :white_check_mark: |  | :x: |
 
 ## Insane
 | Name | Done | Tags | YouTube |
 | ---- | ---- | ---- | ------- |
 | [Hunter](./challenges/hunter) | :x: |  | :x: |
+| [Lovely Malware](./challenges/lovely_malware/) | :x: |  | :x: |
 
 ## OpTinselTrace Campaign
 | Name | Difficulty | Done | Tags | YouTube |
