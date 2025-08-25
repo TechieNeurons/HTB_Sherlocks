@@ -15,9 +15,9 @@ Write ups for Hack The Box Sherlocks
 ## Easy
 | Name | Done | Tags | Video |
 | ---- | ---- | ---- | ----- |
-| [Meerkat](./challenges/meerkat/) | :white_check_mark: | #wireshark #jq #http | [YouTube](https://youtu.be/VaBAgZM8h3Q) |
-| [Bumblebee](./challenges/bumblebee/) | :white_check_mark: | #DFIR #sqlite #access.log | [YouTube](https://youtu.be/mYaLNTE7eqM) |
-| [Logjammer](./challenges/logjammer/) | :white_check_mark: | #evtx | :x: |
+| [Meerkat](./challenges/meerkat/) | :white_check_mark: | wireshark, jq, http | [YouTube](https://youtu.be/VaBAgZM8h3Q) |
+| [Bumblebee](./challenges/bumblebee/) | :white_check_mark: | DFIR, sqlite, access.log | [YouTube](https://youtu.be/mYaLNTE7eqM) |
+| [Logjammer](./challenges/logjammer/) | :white_check_mark: | evtx | :x: |
 | [Litter](./challenges/litter/) | :white_check_mark: |  | :x: |
 | [Noted](./challenges/noted/) | :white_check_mark: |  | :x: |
 | [Nubilum-2](./challenges/nubilum_2/) | :white_check_mark: |  | :x: |
@@ -34,9 +34,9 @@ Write ups for Hack The Box Sherlocks
 | [Heartbreaker-Continuum](./challenges/heartbreaker_continuum/) | :white_check_mark: |  | :x: |
 | [Fragility](./challenges/fragility/) | :white_check_mark: |  | :x: |
 | [Takedown](./challenges/takedown/) | :white_check_mark: |  | :x: |
-| [Operation Blackout 2025: Ghost Thread](./challenges/ghost_thread) | :white_check_mark: | #Windows #APIMonitor #process_injection #tls | [YouTube](https://youtu.be/Ja4JE6Bd7z8) |
-| [NeuroSync-D](./challenges/neurosync_d/) | :white_check_mark: | #API #linux #logs #access.log | [YouTube](https://youtu.be/oy8croiRkVQ) |
-| [Pikaptcha](./challenges/pikaptcha/) | :white_check_mark: | #web #windows #registry #wireshark | [YouTube](https://youtu.be/US7Mzy2L9aM) |
+| [Operation Blackout 2025: Ghost Thread](./challenges/ghost_thread) | :white_check_mark: | Windows, APIMonitor, process_injection, tls | [YouTube](https://youtu.be/Ja4JE6Bd7z8) |
+| [NeuroSync-D](./challenges/neurosync_d/) | :white_check_mark: | API, linux, logs, access.log | [YouTube](https://youtu.be/oy8croiRkVQ) |
+| [Pikaptcha](./challenges/pikaptcha/) | :white_check_mark: | web, windows, registry, wireshark | [YouTube](https://youtu.be/US7Mzy2L9aM) |
 | [Payload](./challenges/payload/) | :white_check_mark: |  | :x: |
 | [Psittaciformes](./challenges/psittaciformes/) | :white_check_mark: |  | :x: |
 | [Compromised](./challenges/compromised/) | :white_check_mark: |  | :x: |
