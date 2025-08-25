@@ -41,6 +41,7 @@ Write ups for Hack The Box Sherlocks
 | [Psittaciformes](./challenges/psittaciformes/) | :white_check_mark: |  | :x: |
 | [Compromised](./challenges/compromised/) | :white_check_mark: |  | :x: |
 | [Loggy](./challenges/loggy/) | :white_check_mark: |  | :x: |
+| [TeamWork](./challenges/teamwork/) | :white_check_mark: | Threat Intelligence, email, MITRE, ATT&CK,  | :x: |
 | []() | :white_check_mark: |  | :x: |
 
 ## Medium
