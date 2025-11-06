@@ -42,6 +42,8 @@ Write ups for Hack The Box Sherlocks
 | [Compromised](./challenges/compromised/) | :white_check_mark: |  | :x: |
 | [Loggy](./challenges/loggy/) | :white_check_mark: |  | :x: |
 | [TeamWork](./challenges/teamwork/) | :white_check_mark: | Threat Intelligence, email, MITRE, ATT&CK,  | :x: |
+| [Payload](./challenges/payload/) | :white_check_mark: |  | :x: |
+| [Trojan](./challenges/trojan/) | :white_check_mark: |  | :x: |
 | []() | :white_check_mark: |  | :x: |
 
 ## Medium
@@ -65,6 +67,7 @@ Write ups for Hack The Box Sherlocks
 | [Lockpick3.0](./challenges/lockpick3/) | :white_check_mark: |  | :x: |
 | [BOughT](./challenges/bought) | :x: |  | :x: |
 | [APTNightmare-2](./challenges/aptnightmare_2/) | :white_check_mark: |  | :x: |
+| [Streamer](./challenges/streamer/) | :white_check_mark: |  | :x: |
 
 ## Insane
 | Name | Done | Tags | Video |
