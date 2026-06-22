@@ -23,7 +23,7 @@ Write ups for Hack The Box Sherlocks
 | [Litter](./challenges/litter/) | :white_check_mark: |  | :x: |
 | [Noted](./challenges/noted/) | :white_check_mark: |  | :x: |
 | [Nubilum-2](./challenges/nubilum_2/) | :white_check_mark: |  | :x: |
-| [Lockpick](./challenges/lockpick/) | :white_check_mark: |  | :x: |
+| [Lockpick](./challenges/lockpick/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [Tracer](./challenges/tracer/) | :white_check_mark: |  | :x: |
 | [Ultimatum](./challenges/ultimatum/) | :white_check_mark: |  | :x: |
 | [Jingle Bell](./challenges/jingle_bell/) | :white_check_mark: |  | :x: |
@@ -33,7 +33,7 @@ Write ups for Hack The Box Sherlocks
 | [Fragility](./challenges/fragility/) | :white_check_mark: |  | :x: |
 | [Takedown](./challenges/takedown/) | :white_check_mark: |  | :x: |
 | [RogueOne](./challenges/rogue_one) | :white_check_mark: |  | :x: |
-| [Heartbreaker-Continuum](./challenges/heartbreaker_continuum/) | :white_check_mark: |  | :x: |
+| [Heartbreaker-Continuum](./challenges/heartbreaker_continuum/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [Fragility](./challenges/fragility/) | :white_check_mark: |  | :x: |
 | [Takedown](./challenges/takedown/) | :white_check_mark: |  | :x: |
 | [Operation Blackout 2025: Ghost Thread](./challenges/ghost_thread) | :white_check_mark: | Windows, APIMonitor, process_injection, tls | [YouTube](https://youtu.be/Ja4JE6Bd7z8) |
@@ -42,23 +42,25 @@ Write ups for Hack The Box Sherlocks
 | [Payload](./challenges/payload/) | :white_check_mark: |  | :x: |
 | [Psittaciformes](./challenges/psittaciformes/) | :white_check_mark: |  | :x: |
 | [Compromised](./challenges/compromised/) | :white_check_mark: |  | :x: |
-| [Loggy](./challenges/loggy/) | :white_check_mark: |  | :x: |
+| [Loggy](./challenges/loggy/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [TeamWork](./challenges/teamwork/) | :white_check_mark: | Threat Intelligence, email, MITRE, ATT&CK,  | :x: |
-| [Payload](./challenges/payload/) | :white_check_mark: |  | :x: |
+| [Payload](./challenges/payload/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [Trojan](./challenges/trojan/) | :white_check_mark: |  | :x: |
-| [ElectricBreeze-2](./challenges/electricbreeze_2/) | :white_check_mark: |  | :x: |
-| [OpSalwarKameez24-1: Super-Star](./challenges/OpSalwarKameez24-1_Super-Star/) | :white_check_mark: |  | :x: |
-| [TrainingDay](./challenges/trainingday/) | :white_check_mark: |  | :x: |
+| [ElectricBreeze-2](./challenges/electricbreeze_2/) | :white_check_mark: | **Malware Analysis** | :x: |
+| [OpSalwarKameez24-1: Super-Star](./challenges/OpSalwarKameez24-1_Super-Star/) | :white_check_mark: | **Malware Analysis** | :x: |
+| [TrainingDay](./challenges/trainingday/) | :white_check_mark: | **Malware Analysis** | :x: |
+| [AoTR 1: A Call from the Museum](./challenges/aotr_1_a_call_from_the_museum/) | :white_check_mark: | **Malware Analysis** | :x: |
+| [SecretPictures](./challenges/secretpictures/) | :white_check_mark: | **Malware Analysis** | :x: |
+| [SalineBreeze-2](./challenges/salinebreeze_2/) | :white_check_mark: | **Malware Analysis** | :x: |
 | []() | :white_check_mark: |  | :x: |
 | []() | :white_check_mark: |  | :x: |
-
 
 ## Medium
 | Name | Done | Tags | Video |
 | ---- | ---- | ---- | ----- |
 | [Jugglin](./challenges/jugglin/) | :white_check_mark: |  | :x: |
 | [Constellation](./challenges/constellation/) | :white_check_mark: |  | :x: |
-| [Subatomic](./challenges/subatomic/) | :white_check_mark: |  | :x: |
+| [Subatomic](./challenges/subatomic/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [Nubilum-1](./challenges/nubilum_1/) | :white_check_mark: |  | :x: |
 | [TickTock](./challenges/ticktock/) | :white_check_mark: |  | :x: |
 | [Mellitus](./challenges/mellitus/) | :white_check_mark: |  | :x: |
@@ -68,19 +70,20 @@ Write ups for Hack The Box Sherlocks
 | [Trent](./challenges/trent/) | :white_check_mark: |  | :x: |
 | [Antartica](./challenges/antartica/) | :white_check_mark: |  | :x: |
 | [Lupin](./challenges/lupin/) | :white_check_mark: |  | :x: |
-| [Malevolent ModMaker](./challenges/malevolent_modmaker/) | :white_check_mark: |  | :x: |
+| [Malevolent ModMaker](./challenges/malevolent_modmaker/) | :white_check_mark: | **Malware Analysis** | :x: |
 | []() | :white_check_mark: |  | :x: |
 | []() | :white_check_mark: |  | :x: |
 
 ## Hard
 | Name | Done | Tags | Video |
 | ---- | ---- | ---- | ----- |
-| [Lockpick2.0](./challenges/lockpick2/) | :white_check_mark: |  | :x: |
-| [Lockpick3.0](./challenges/lockpick3/) | :white_check_mark: |  | :x: |
+| [Lockpick2.0](./challenges/lockpick2/) | :white_check_mark: | **Malware Analysis** | :x: |
+| [Lockpick3.0](./challenges/lockpick3/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [BOughT](./challenges/bought) | :x: |  | :x: |
 | [APTNightmare-2](./challenges/aptnightmare_2/) | :white_check_mark: |  | :x: |
 | [Streamer](./challenges/streamer/) | :white_check_mark: |  | :x: |
 | [Foreigner](./challenges/foreigner/) | :white_check_mark: |  | :x: |
+| [Holmes 2025 5: The Payload](./challenges/holmes_2025_5_the_payload/) | :white_check_mark: | **Malware Analysis** | :x: |
 | []() | :white_check_mark: |  | :x: |
 | []() | :white_check_mark: |  | :x: |
 
