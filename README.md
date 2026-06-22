@@ -11,6 +11,8 @@ Write ups for Hack The Box Sherlocks
 | [Campfire-2](./challenges/campfire_2) | :white_check_mark: |  | :x: |
 | [Reaper](./challenges/reaper/) | :white_check_mark: |  | :x: |
 | [Noxious](./challenges/noxious/) | :white_check_mark: |  | :x: |
+| []() | :white_check_mark: |  | :x: |
+| []() | :white_check_mark: |  | :x: |
 
 ## Easy
 | Name | Done | Tags | Video |
@@ -44,7 +46,12 @@ Write ups for Hack The Box Sherlocks
 | [TeamWork](./challenges/teamwork/) | :white_check_mark: | Threat Intelligence, email, MITRE, ATT&CK,  | :x: |
 | [Payload](./challenges/payload/) | :white_check_mark: |  | :x: |
 | [Trojan](./challenges/trojan/) | :white_check_mark: |  | :x: |
+| [ElectricBreeze-2](./challenges/electricbreeze_2/) | :white_check_mark: |  | :x: |
+| [OpSalwarKameez24-1: Super-Star](./challenges/OpSalwarKameez24-1_Super-Star/) | :white_check_mark: |  | :x: |
+| [TrainingDay](./challenges/trainingday/) | :white_check_mark: |  | :x: |
 | []() | :white_check_mark: |  | :x: |
+| []() | :white_check_mark: |  | :x: |
+
 
 ## Medium
 | Name | Done | Tags | Video |
@@ -59,6 +66,11 @@ Write ups for Hack The Box Sherlocks
 | [Jinkies](./challenges/jinkies) | :white_check_mark: |  | :x: |
 | [MisCloud](./challenges/miscloud/) | :white_check_mark: |  | :x: |
 | [Trent](./challenges/trent/) | :white_check_mark: |  | :x: |
+| [Antartica](./challenges/antartica/) | :white_check_mark: |  | :x: |
+| [Lupin](./challenges/lupin/) | :white_check_mark: |  | :x: |
+| [Malevolent ModMaker](./challenges/malevolent_modmaker/) | :white_check_mark: |  | :x: |
+| []() | :white_check_mark: |  | :x: |
+| []() | :white_check_mark: |  | :x: |
 
 ## Hard
 | Name | Done | Tags | Video |
@@ -68,12 +80,17 @@ Write ups for Hack The Box Sherlocks
 | [BOughT](./challenges/bought) | :x: |  | :x: |
 | [APTNightmare-2](./challenges/aptnightmare_2/) | :white_check_mark: |  | :x: |
 | [Streamer](./challenges/streamer/) | :white_check_mark: |  | :x: |
+| [Foreigner](./challenges/foreigner/) | :white_check_mark: |  | :x: |
+| []() | :white_check_mark: |  | :x: |
+| []() | :white_check_mark: |  | :x: |
 
 ## Insane
 | Name | Done | Tags | Video |
 | ---- | ---- | ---- | ----- |
 | [Hunter](./challenges/hunter) | :x: |  | :x: |
 | [Lovely Malware](./challenges/lovely_malware/) | :x: |  | :x: |
+| []() | :white_check_mark: |  | :x: |
+| []() | :white_check_mark: |  | :x: |
 
 ## OpTinselTrace Campaign
 | Name | Difficulty | Done | Tags | Video |
