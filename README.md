@@ -2,12 +2,12 @@
 Write ups for Hack The Box Sherlocks
 
 ## Very Easy
-| Name | Done | Tags | Video |
-| ---- | ---- | ---- | ----- |
-| [Brutus](./challenges/brutus/) | :white_check_mark: |  | [YouTube](https://youtu.be/cuWbj6n0pWg) |
-| [Unit 42](./challenges/unit42/) | :white_check_mark: |  | [YouTube](https://youtu.be/-GMmIVzaAzA) |
-| [BFT](./challenges/BFT/) | :white_check_mark: |  | [YouTube](https://youtu.be/Ns-5lX_-XIE) |
-| [Campfire-1](./challenges/campfire_1) | :white_check_mark: |  | [YouTube](https://youtu.be/yirAsRcLcB4) |
+| Name | Done | Tags | YouTube |
+| ---- | ---- | ---- | ------- |
+| [Brutus](./challenges/brutus/) | :white_check_mark: |  | [:link:](https://youtu.be/cuWbj6n0pWg) |
+| [Unit 42](./challenges/unit42/) | :white_check_mark: |  | [:link:](https://youtu.be/-GMmIVzaAzA) |
+| [BFT](./challenges/BFT/) | :white_check_mark: |  | [:link:](https://youtu.be/Ns-5lX_-XIE) |
+| [Campfire-1](./challenges/campfire_1) | :white_check_mark: |  | [:link:](https://youtu.be/yirAsRcLcB4) |
 | [Campfire-2](./challenges/campfire_2) | :white_check_mark: |  | :x: |
 | [Reaper](./challenges/reaper/) | :white_check_mark: |  | :x: |
 | [Noxious](./challenges/noxious/) | :white_check_mark: |  | :x: |
@@ -15,8 +15,8 @@ Write ups for Hack The Box Sherlocks
 | []() | :white_check_mark: |  | :x: |
 
 ## Easy
-| Name | Done | Tags | Video |
-| ---- | ---- | ---- | ----- |
+| Name | Done | Tags | YouTube |
+| ---- | ---- | ---- | ------- |
 | [Meerkat](./challenges/meerkat/) | :white_check_mark: | wireshark, jq, http | [YouTube](https://youtu.be/VaBAgZM8h3Q) |
 | [Bumblebee](./challenges/bumblebee/) | :white_check_mark: | DFIR, sqlite, access.log | [YouTube](https://youtu.be/mYaLNTE7eqM) |
 | [Logjammer](./challenges/logjammer/) | :white_check_mark: | evtx | :x: |
@@ -56,8 +56,8 @@ Write ups for Hack The Box Sherlocks
 | []() | :white_check_mark: |  | :x: |
 
 ## Medium
-| Name | Done | Tags | Video |
-| ---- | ---- | ---- | ----- |
+| Name | Done | Tags | YouTube |
+| ---- | ---- | ---- | ------- |
 | [Jugglin](./challenges/jugglin/) | :white_check_mark: |  | :x: |
 | [Constellation](./challenges/constellation/) | :white_check_mark: |  | :x: |
 | [Subatomic](./challenges/subatomic/) | :white_check_mark: | **Malware Analysis** | :x: |
@@ -75,8 +75,8 @@ Write ups for Hack The Box Sherlocks
 | []() | :white_check_mark: |  | :x: |
 
 ## Hard
-| Name | Done | Tags | Video |
-| ---- | ---- | ---- | ----- |
+| Name | Done | Tags | YouTube |
+| ---- | ---- | ---- | ------- |
 | [Lockpick2.0](./challenges/lockpick2/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [Lockpick3.0](./challenges/lockpick3/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [BOughT](./challenges/bought) | :x: |  | :x: |
@@ -88,16 +88,16 @@ Write ups for Hack The Box Sherlocks
 | []() | :white_check_mark: |  | :x: |
 
 ## Insane
-| Name | Done | Tags | Video |
-| ---- | ---- | ---- | ----- |
+| Name | Done | Tags | YouTube |
+| ---- | ---- | ---- | ------- |
 | [Hunter](./challenges/hunter) | :x: |  | :x: |
 | [Lovely Malware](./challenges/lovely_malware/) | :x: | **Malware Analysis** | :x: |
 | []() | :white_check_mark: |  | :x: |
 | []() | :white_check_mark: |  | :x: |
 
 ## OpTinselTrace Campaign
-| Name | Difficulty | Done | Tags | Video |
-| ---- | ---------- | ---- | ---- | ----- |
+| Name | Difficulty | Done | Tags | YouTube |
+| ---- | ---------- | ---- | ---- | ------- |
 | [OpTinselTrace-1](./challenges/optinseltrace_1) | Easy | :white_check_mark: |  | :x: |
 | [OpTinselTrace-2](./challenges/optinseltrace_2) | Easy | :white_check_mark: |  | :x: |
 | [OpTinselTrace-3](./challenges/optinseltrace_3) | Medium | :white_check_mark: |  | :x: |
