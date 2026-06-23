@@ -47,7 +47,7 @@ Write ups for Hack The Box Sherlocks
 | [Payload](./challenges/payload/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [Trojan](./challenges/trojan/) | :white_check_mark: |  | :x: |
 | [ElectricBreeze-2](./challenges/electricbreeze_2/) | :white_check_mark: | **Malware Analysis** | :x: |
-| [OpSalwarKameez24-1: Super-Star](./challenges/OpSalwarKameez24-1_Super-Star/) | :white_check_mark: | **Malware Analysis** | :x: |
+| [OpSalwarKameez24-1: Super-Star](./challenges/opsalwarkameez24_1_super_star/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [TrainingDay](./challenges/trainingday/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [AoTR 1: A Call from the Museum](./challenges/aotr_1_a_call_from_the_museum/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [SecretPictures](./challenges/secretpictures/) | :white_check_mark: | **Malware Analysis** | :x: |
@@ -68,8 +68,8 @@ Write ups for Hack The Box Sherlocks
 | [Jinkies](./challenges/jinkies) | :white_check_mark: |  | :x: |
 | [MisCloud](./challenges/miscloud/) | :white_check_mark: |  | :x: |
 | [Trent](./challenges/trent/) | :white_check_mark: |  | :x: |
-| [Antartica](./challenges/antartica/) | :white_check_mark: |  | :x: |
-| [Lupin](./challenges/lupin/) | :white_check_mark: |  | :x: |
+| [Antartica](./challenges/antartica/) | :white_check_mark: | **Malware Analysis** | :x: |
+| [Lupin](./challenges/lupin/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [Malevolent ModMaker](./challenges/malevolent_modmaker/) | :white_check_mark: | **Malware Analysis** | :x: |
 | []() | :white_check_mark: |  | :x: |
 | []() | :white_check_mark: |  | :x: |
@@ -91,7 +91,7 @@ Write ups for Hack The Box Sherlocks
 | Name | Done | Tags | Video |
 | ---- | ---- | ---- | ----- |
 | [Hunter](./challenges/hunter) | :x: |  | :x: |
-| [Lovely Malware](./challenges/lovely_malware/) | :x: |  | :x: |
+| [Lovely Malware](./challenges/lovely_malware/) | :x: | **Malware Analysis** | :x: |
 | []() | :white_check_mark: |  | :x: |
 | []() | :white_check_mark: |  | :x: |
 
