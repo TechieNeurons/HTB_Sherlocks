@@ -82,7 +82,7 @@ Write ups for Hack The Box Sherlocks
 | [BOughT](./challenges/bought) | :x: |  | :x: |
 | [APTNightmare-2](./challenges/aptnightmare_2/) | :white_check_mark: |  | :x: |
 | [Streamer](./challenges/streamer/) | :white_check_mark: |  | :x: |
-| [Foreigner](./challenges/foreigner/) | :white_check_mark: |  | :x: |
+| [Foreigner](./challenges/foreigner/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [Holmes 2025 5: The Payload](./challenges/holmes_2025_5_the_payload/) | :white_check_mark: | **Malware Analysis** | :x: |
 | []() | :white_check_mark: |  | :x: |
 | []() | :white_check_mark: |  | :x: |
