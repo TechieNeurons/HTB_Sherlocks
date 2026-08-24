@@ -62,7 +62,7 @@ Write ups for Hack The Box Sherlocks
 | [Subatomic](./challenges/subatomic/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [SneakyKeys](./challenges/sneakykeys/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [Malevolent ModMaker](./challenges/malevolent_modmaker/) | :white_check_mark: | **Malware Analysis** | :x: |
-| [Antartica](./challenges/antartica/) | :white_check_mark: | **Malware Analysis** **ACTIVE** | [:link:](https://youtu.be/uGOGdBMgpqs) |
+| [Antartica](./challenges/antartica/) | :white_check_mark: | **Malware Analysis** | [:link:](https://youtu.be/uGOGdBMgpqs) |
 | [Lupin](./challenges/lupin/) | :white_check_mark: | **Malware Analysis** | [:link:](https://youtu.be/9O3MLDwH2ME) |
 | [Jugglin](./challenges/jugglin/) | :white_check_mark: |  | :x: |
 | [Constellation](./challenges/constellation/) | :white_check_mark: |  | :x: |
@@ -94,10 +94,10 @@ Write ups for Hack The Box Sherlocks
 ## Insane
 | Name | Done | Tags | YouTube |
 | ---- | ---- | ---- | ------- |
-| [Novitas](./challenges/novitas/) | :x: | **Malware Analysis** | :x: |
-| [Lovely Malware](./challenges/lovely_malware/) | :x: | **Malware Analysis** | :x: |
-| [Lockpick4.0](./challenges/lockpick4/) | :x: | **Malware Analysis** | :x: |
-| [Safecracker](./challenges/safecracker/) | :x: | **Malware Analysis** | :x: |
+| [Novitas](./challenges/novitas/) | :white_check_mark: | **Malware Analysis** | :x: |
+| [Lovely Malware](./challenges/lovely_malware/) | :white_check_mark: | **Malware Analysis** | :x: |
+| [Lockpick4.0](./challenges/lockpick4/) | :white_check_mark: | **Malware Analysis** | :x: |
+| [Safecracker](./challenges/safecracker/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [ShadowStream](./challenges/shadowstream/) | :x: | **Malware Analysis** **ACTIVE** | :x: |
 | [Hunter](./challenges/hunter) | :x: |  | :x: |
 | []() | :white_check_mark: |  | :x: |
