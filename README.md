@@ -84,7 +84,7 @@ Write ups for Hack The Box Sherlocks
 | [Lockpick2.0](./challenges/lockpick2/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [Lockpick3.0](./challenges/lockpick3/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [ShadowMonarch](./challenges/shadowmonarch/) | :white_check_mark: | **Malware Analysis** **ACTIVE** | :x: |
-| [Foreigner](./challenges/foreigner/) | :white_check_mark: | **Malware Analysis** **ACTIVE** | [:link:](https://youtu.be/rFfVr97vgvY) |
+| [Foreigner](./challenges/foreigner/) | :white_check_mark: | **Malware Analysis** | [:link:](https://youtu.be/rFfVr97vgvY) |
 | [BOughT](./challenges/bought) | :x: |  | :x: |
 | [APTNightmare-2](./challenges/aptnightmare_2/) | :white_check_mark: |  | :x: |
 | [Streamer](./challenges/streamer/) | :white_check_mark: |  | :x: |
