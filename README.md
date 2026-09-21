@@ -26,7 +26,7 @@ Write ups for Hack The Box Sherlocks
 | [Loggy](./challenges/loggy/) | :white_check_mark: | **Malware Analysis** | [:link:](https://youtu.be/YTU-E0qc4MM) |
 | [OpSalwarKameez24-1: Super-Star](./challenges/opsalwarkameez24_1_super_star/) | :white_check_mark: | **Malware Analysis** | [:link:](https://youtu.be/98acjTPpueo) |
 | [Heartbreaker-Continuum](./challenges/heartbreaker_continuum/) | :white_check_mark: | **Malware Analysis** | [:link:](https://youtu.be/enBxkgaS8r0) |
-| [Lockpick](./challenges/lockpick/) | :white_check_mark: | **Malware Analysis** | :x: |
+| [Lockpick](./challenges/lockpick/) | :white_check_mark: | **Malware Analysis** | [:link:](https://youtu.be/fUJjoCpe_tw) |
 | [CrashDump](./challenges/crashdump/) | :white_check_mark: | **Malware Analysis** | [:link:](https://youtu.be/MY0Rge1drvs) |
 | [Meerkat](./challenges/meerkat/) | :white_check_mark: | wireshark, jq, http | [:link:](https://youtu.be/VaBAgZM8h3Q) |
 | [Bumblebee](./challenges/bumblebee/) | :white_check_mark: | DFIR, sqlite, access.log | [:link:](https://youtu.be/mYaLNTE7eqM) |
@@ -59,9 +59,9 @@ Write ups for Hack The Box Sherlocks
 ## Medium
 | Name | Done | Tags | YouTube |
 | ---- | ---- | ---- | ------- |
-| [Subatomic](./challenges/subatomic/) | :white_check_mark: | **Malware Analysis** | :x: |
-| [SneakyKeys](./challenges/sneakykeys/) | :white_check_mark: | **Malware Analysis** | :x: |
-| [Malevolent ModMaker](./challenges/malevolent_modmaker/) | :white_check_mark: | **Malware Analysis** | :x: |
+| [Subatomic](./challenges/subatomic/) | :white_check_mark: | **Malware Analysis** | [:link:](https://youtu.be/7GQX5uYZPRk) |
+| [SneakyKeys](./challenges/sneakykeys/) | :white_check_mark: | **Malware Analysis** | [:link:](https://youtu.be/yFllDBrFBCo) |
+| [Malevolent ModMaker](./challenges/malevolent_modmaker/) | :white_check_mark: | **Malware Analysis** | [:link:](https://youtu.be/n94mJypAzJw) |
 | [Antartica](./challenges/antartica/) | :white_check_mark: | **Malware Analysis** | [:link:](https://youtu.be/uGOGdBMgpqs) |
 | [Lupin](./challenges/lupin/) | :white_check_mark: | **Malware Analysis** | [:link:](https://youtu.be/9O3MLDwH2ME) |
 | [Jugglin](./challenges/jugglin/) | :white_check_mark: |  | :x: |
