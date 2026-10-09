@@ -73,17 +73,18 @@ Write ups for Hack The Box Sherlocks
 | [Jinkies](./challenges/jinkies) | :white_check_mark: |  | :x: |
 | [MisCloud](./challenges/miscloud/) | :white_check_mark: |  | :x: |
 | [Trent](./challenges/trent/) | :white_check_mark: |  | :x: |
+| [LogForge](./challenges/LogForge/) | :white_check_mark: | windows, sysmon, DFIR, Kape | [:link:](https://youtu.be/h28OxQS7HxM) |
 | []() | :white_check_mark: |  | :x: |
 | []() | :white_check_mark: |  | :x: |
 
 ## Hard
 | Name | Done | Tags | YouTube |
 | ---- | ---- | ---- | ------- |
-| [Holmes 2025 5: The Payload](./challenges/holmes_2025_5_the_payload/) | :white_check_mark: | **Malware Analysis** | :x: |
-| [OpSalwarKameez24-3: Snake-Pill](./challenges/snake_pill/) | :white_check_mark: | **Malware Analysis** | :x: |
+| [Holmes 2025 5: The Payload](./challenges/holmes_2025_5_the_payload/) | :white_check_mark: | **Malware Analysis** | [:link:](https://youtu.be/GBH0M8pkIT8) |
+| [OpSalwarKameez24-3: Snake-Pill](./challenges/snake_pill/) | :white_check_mark: | **Malware Analysis** | [:link:](https://youtu.be/xCorgc8yUvs) |
 | [Lockpick2.0](./challenges/lockpick2/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [Lockpick3.0](./challenges/lockpick3/) | :white_check_mark: | **Malware Analysis** | :x: |
-| [ShadowMonarch](./challenges/shadowmonarch/) | :white_check_mark: | **Malware Analysis** **ACTIVE** | :x: |
+| [ShadowMonarch](./challenges/shadowmonarch/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [Foreigner](./challenges/foreigner/) | :white_check_mark: | **Malware Analysis** | [:link:](https://youtu.be/rFfVr97vgvY) |
 | [BOughT](./challenges/bought) | :x: |  | :x: |
 | [APTNightmare-2](./challenges/aptnightmare_2/) | :white_check_mark: |  | :x: |
@@ -98,7 +99,8 @@ Write ups for Hack The Box Sherlocks
 | [Lovely Malware](./challenges/lovely_malware/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [Lockpick4.0](./challenges/lockpick4/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [Safecracker](./challenges/safecracker/) | :white_check_mark: | **Malware Analysis** | :x: |
-| [ShadowStream](./challenges/shadowstream/) | :x: | **Malware Analysis** **ACTIVE** | :x: |
+| [ShadowStream](./challenges/shadowstream/) | :x: | **Malware Analysis** | :x: |
+| [Kawmikaze](./challenges/kawmikaze/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [Hunter](./challenges/hunter) | :x: |  | :x: |
 | []() | :white_check_mark: |  | :x: |
 | []() | :white_check_mark: |  | :x: |
