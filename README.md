@@ -4,6 +4,7 @@ Write ups for Hack The Box Sherlocks
 ## Very Easy
 | Name | Done | Tags | YouTube |
 | ---- | ---- | ---- | ------- |
+| [PhantomRing](./challenges/phantomring/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [Brutus](./challenges/brutus/) | :white_check_mark: |  | [:link:](https://youtu.be/cuWbj6n0pWg) |
 | [Unit 42](./challenges/unit42/) | :white_check_mark: |  | [:link:](https://youtu.be/-GMmIVzaAzA) |
 | [BFT](./challenges/BFT/) | :white_check_mark: |  | [:link:](https://youtu.be/Ns-5lX_-XIE) |
@@ -82,13 +83,14 @@ Write ups for Hack The Box Sherlocks
 | ---- | ---- | ---- | ------- |
 | [Holmes 2025 5: The Payload](./challenges/holmes_2025_5_the_payload/) | :white_check_mark: | **Malware Analysis** | [:link:](https://youtu.be/GBH0M8pkIT8) |
 | [OpSalwarKameez24-3: Snake-Pill](./challenges/snake_pill/) | :white_check_mark: | **Malware Analysis** | [:link:](https://youtu.be/xCorgc8yUvs) |
-| [Lockpick2.0](./challenges/lockpick2/) | :white_check_mark: | **Malware Analysis** | :x: |
-| [Lockpick3.0](./challenges/lockpick3/) | :white_check_mark: | **Malware Analysis** | :x: |
+| [Lockpick2.0](./challenges/lockpick2/) | :white_check_mark: | **Malware Analysis** | [:link:](https://youtu.be/sSAjIp_gGW4) |
+| [Lockpick3.0](./challenges/lockpick3/) | :white_check_mark: | **Malware Analysis** | [:link:](https://youtu.be/fdfzynJC0zw) |
 | [ShadowMonarch](./challenges/shadowmonarch/) | :white_check_mark: | **Malware Analysis** | :x: |
 | [Foreigner](./challenges/foreigner/) | :white_check_mark: | **Malware Analysis** | [:link:](https://youtu.be/rFfVr97vgvY) |
 | [BOughT](./challenges/bought) | :x: |  | :x: |
 | [APTNightmare-2](./challenges/aptnightmare_2/) | :white_check_mark: |  | :x: |
 | [Streamer](./challenges/streamer/) | :white_check_mark: |  | :x: |
+| [JobApplicant](./challenges/jobapplicant/) | :white_check_mark: | DFIR, AD CS, IIS, Vulnerability | :x: |
 | []() | :white_check_mark: |  | :x: |
 | []() | :white_check_mark: |  | :x: |
 
