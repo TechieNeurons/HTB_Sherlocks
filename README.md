@@ -75,7 +75,7 @@ Write ups for Hack The Box Sherlocks
 | [MisCloud](./challenges/miscloud/) | :white_check_mark: |  | :x: |
 | [Trent](./challenges/trent/) | :white_check_mark: |  | :x: |
 | [LogForge](./challenges/LogForge/) | :white_check_mark: | windows, sysmon, DFIR, Kape | [:link:](https://youtu.be/h28OxQS7HxM) |
-| []() | :white_check_mark: |  | :x: |
+| [Holmes 2025 2: The Watchman's Residue](./challenges/holmes_2025_2_watchman_s_residue) | :white_check_mark: | DFIR | :x: |
 | []() | :white_check_mark: |  | :x: |
 
 ## Hard
